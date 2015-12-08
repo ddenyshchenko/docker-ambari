@@ -1,4 +1,3 @@
-#!/bin/bash
 :<<USAGE
 ########################################
 curl -Lo .amb j.mp/docker-ambari && . .amb
